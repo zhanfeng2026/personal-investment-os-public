@@ -1,0 +1,9 @@
+{
+  "name": "个人投资操作系统",
+  "short_name": "投资认知 OS",
+  "description": "让知识、判断力与资本共同复利。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8faf8",
+  "theme_color": "#1f5a46"
+}
